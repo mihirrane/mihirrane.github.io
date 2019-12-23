@@ -2,7 +2,7 @@
 
 ---
 
-### Data Science
+### Data Science Projects
 
 [Exploring the BRFSS data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
