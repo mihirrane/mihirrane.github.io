@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Exploring the BRFSS data](/sample_page)
+[Exploring the BRFSS data](https://github.com/mihirrane/Coursera-courses)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
